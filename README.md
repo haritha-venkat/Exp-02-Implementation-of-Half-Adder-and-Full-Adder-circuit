@@ -54,14 +54,14 @@ RTL realization
 
 
 # TIMING DIAGRAM:
-Half adder:
+### Half adder:
 ![image](https://user-images.githubusercontent.com/121285701/228257344-7603f726-2d80-4277-ac30-15b76e495b2c.png)
 ### full adder:
 ![image](https://user-images.githubusercontent.com/121285701/228258370-275901f8-5784-448f-aeb3-1eb02731bdf7.png)
 # TRUTH TABLE
-Half adder
+### Half adder
 ![image](https://user-images.githubusercontent.com/121285701/228258551-23ab06e6-c876-4c8e-b3bb-8fe9b198c9dc.png)
-full adder:
+### full adder:
 ![image](https://user-images.githubusercontent.com/121285701/228258671-b39099ec-db20-4ed7-8865-c533abaa220e.png)
 
 
