@@ -29,13 +29,12 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 #### Figure -02 FULL ADDER 
 
-### Procedure
+## Procedure
 
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
+## Program:
 ```python
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: HARITHASHREE.V
